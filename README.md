@@ -1,20 +1,18 @@
 # 🎮 Tic Tac Toe Game
 
-An interactive **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**. Play against another player in the browser with real-time winner detection, draw handling, reset functionality, and an engaging user interface.
+<p align="center">
+  <a href="https://your-vercel-link.vercel.app">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-00C853?style=for-the-badge"/>
+  </a>
+
+  <a href="https://github.com/Dibyar21/tic-tac-toe-game">
+    <img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 ---
 
-# 🎮 Tic Tac Toe Game
-
-<p align="center">
-  <a href="https://tic-tac-toe-game-xi-ebon.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/LIVE-DEMO-44CC11?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/Dibyar21/tic-tac-toe-game" target="_blank">  
-    <img src="https://img.shields.io/badge/SOURCE-CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+An interactive **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**. Play against another player in the browser with real-time winner detection, draw handling, reset functionality, and an engaging user interface.
 
 ---
 
