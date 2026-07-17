@@ -4,6 +4,22 @@ An interactive **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**. P
 
 ---
 
+# 🎮 Tic Tac Toe Game
+
+<p align="center">
+
+<a href="https://your-vercel-link.vercel.app">
+<img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://github.com/Dibyar21/tic-tac-toe-game">
+<img src="https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
 ## 🚀 Features
 
 - 🎮 Two-player gameplay (X vs O)
