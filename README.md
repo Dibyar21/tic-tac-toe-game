@@ -10,8 +10,6 @@
   </a>
 </p>
 
----
-
 An interactive **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**. Play against another player in the browser with real-time winner detection, draw handling, reset functionality, and an engaging user interface.
 
 ---
